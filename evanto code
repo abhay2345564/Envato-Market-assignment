@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motion Art Effect</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&family=Sora:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+      <!-- Navbar start  -->
+    <header class="navbar">
+        <div class="logo">
+            <a href="https://codecanyon.net/item/motion-art-for-elementor-wordpress-plugin/48826891?_gl=1*bqgqln*_ga*MTE1OTU2NTE0OS4xNzE2MTE0OTcx*_ga_ZKBVC1X78F*MTcxNjI1NjI0NC4xNi4wLjE3MTYyNTYyNDQuMC4wLjA.&_ga=2.220359709.422593977.1716114971-1159565149.1716114971"><img src="assets/envato-market-logo.png" alt="Envato Market"></a>
+        </div>
+        <div class="btn">
+            <a href="https://codecanyon.net/checkout/102325332/create_account?_ga=2.220359709.422593977.1716114971-1159565149.1716114971"><button class="buy-now">Buy now</button></a>
+        </div>
+    </header>
+
+     <!-- Navbar ende  -->
+
+
+
+    
+      <!-- Motuion art effct start  -->
+    <section class="motion-artEffect">
+        <div class="arteffect">
+            <div class="left-art">
+                <img src="assets/MotionArtEffect-logo.png" alt="Motion Art Effect">
+            </div>
+            <div class="right-art">
+                <a href="https://codecanyon.net/item/motion-art-for-elementor-wordpress-plugin/48826891"><button><span>Purchase now</span></button></a>
+            </div>
+        </div>
+    </section>
+
+
+     <!-- Motuion art effct end  -->
+
+
+
+     <!-- Intro start  -->
+
+    <section class="intro">
+        <div class="intro-content1">
+            <span class="highlight">Transform  Your <br> Website <br></span>
+            <p>With Motion Art<br>Effect</p>
+        </div>
+        <div class="intro-content2">
+            <h1>Attract Your <br> Visitors' Attention <br> With Colorful  <br> <span class="highlight">Motion Art Effect</span></h1>
+            <p class="intropara">Unleash the power of creativity with Motion Art for Elementor - your <br> ultimate solution for seamlessly integrating captivating animations into <br> your website.</p>
+        </div>
+    </section>
+
+     <!-- Intro end  -->
+
+     <!-- review start  -->
+ 
+    <div class="reviews-section">
+        <p>Trusted by thousands of users around the world</p>
+        <div class="reviews-container">
+            <div class="review">
+                <img src="assets/motionarteffect-img1.png" alt="image">
+                
+                <div class="rating">
+                     <img src="assets/motionarteffect-img4.png" alt="Stars" class="stars" height="22px" width="400px">
+                      <span class="score">4.5 Score, 9 Reviews</span>
+                </div>
+            </div>
+            <div class="review">
+                <img src="assets/motionarteffect-img3.png"" alt="image">
+                <div class="rating">
+                    <img src="assets/motionarteffect-img4.png" alt="Stars" class="stars" height="22px" width="400px">
+                    <span class="score">4.5 Score, 9 Reviews</span>
+                </div>
+             </div>
+             <div class="review"> 
+                 <img src="assets/motionarteffect-img2.png" alt="Stars">
+                 <div class="rating">
+                   <img src="assets/motionarteffect-img4.png" alt="Stars" class="stars" height="22px" width="400px">
+                    <span class="score">4.5 Score, 9 Reviews</span>
+                  </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- review end  -->
+
+     <!-- magic start  -->
+    <div class="magic-section">
+        <div class="container">
+            <div class="content">
+                <h1>Turn Your Cursor Into A Colorful <br>Magic Wand & Charm Your Visitors</h1>
+                <p>Motion Art for Elementor is a groundbreaking plugin that empowers you to effortlessly infuse your website with visually stunning motion art elements.</p>
+                <div class="magic-section">
+                    <a href="https://codecanyon.net/item/motion-art-for-elementor-wordpress-plugin/48826891" class="button">Purchase From Envato <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            <div class="magic-wand">
+                <img src="assets/motionarteffect-img5.png" alt="Magic Wand">
+            </div>
+        </div>
+    </div>
+     <!-- magic end  -->
+
+   
+
+
+     <!-- apply start  -->
+
+    <div class="apply">
+        <h2 class="applyh2">Apply On Any Section Or Enable <br> For Whole Page</h2>
+    <div class="apply-main">
+        <div class="apply-onsection">
+            <h2>Apply On Section</h2>
+            <p>Apply on section is a game-changer, offering an unparalleled way to manage applications directly from your website.</p>
+            <div class="boxes">
+                <div class="box-header">
+                    <img src="assets/motionarteffect-img11.png" alt="Section Icon" class=" onimage">
+                </div>     
+            </div>
+        </div>
+        <div class="apply-onpage">
+            <h2>Apply On Page</h2>
+            <p>Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation.</p>
+            <div class="boxes">
+                <div class="box-header">
+                    <img src="assets/motionarteffect-img10.png" alt="Page Icon"  class=" onimage">
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+      <!-- apply end  -->
+
+    <!-- browser start -->
+        <div class="browsers">
+            <h2>Supported by All Popular Browsers</h2>
+            <p>Rest assured, Motion Art is designed to be compatible with all major web browsers.</p>
+            <div class="image-container">
+                <img src="assets/motionarteffect-img8.png" alt="Supported Browsers">
+            </div>
+        </div>
+    </div>
+    <!-- browser end -->
+
+
+    
+    
+     <!-- features start  -->
+    <div class="feature">
+        <div class="feature-text">
+        <h2>An All-Round Plug in  With  <br> Powerful Features</h2>
+        <p>Whether you're a seasoned web designer or just starting out, Motion Art for <br> Elementor seamlessly integrates with the Elementor platform, providing you <br> with a seamless and intuitive experience.</p>
+        </div>
+        <div class="feature-list">
+            <div class="feature-item">
+                <img src="assets/motionarteffect-img9.png" alt="Light weight">
+                <h3>Light weight</h3>
+                <p>Motion Art for Elementor is designed to be <br>lightweight.</p>
+            </div>
+            <div class="feature-item">
+                <img src="assets/motionarteffect-img9.png" alt="100% Responsive">
+                <h3>100% Responsive</h3>
+                <p>Create a consistent visual experience <br> across all devices.</p>
+            </div>
+            <div class="feature-item">
+                <img src="assets/motionarteffect-img7.png" alt="User Friendly Interface">
+                <h3>User Friendly Interface</h3>
+                <p>Ensure a smooth experience for both br applicants and administrators.</p>
+            </div>
+        </div>
+    </div>
+    <!-- features end  -->
+
+     
+     <!-- footer start  -->
+    <footer>
+        <div class="footer-content">
+            <p>© 2023 Copywrite. All rights reserved by QodeMatrix</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://qodematrix.com/docs/motion-art-for-elementor/">Documentation</a>
+                <a href="https://support.qodematrix.com/login">Support</a>
+            </div>
+        
+    </footer>
+     <!-- footer end  -->
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&family=Sora:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: #0c0029;
+    color: #EAEAEA;
+    line-height: 1.6;
+}
+
+/* Navbar start */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #262626;
+    color: #545454;
+    height: 55px;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.buy-now {
+    background-color: #6AC045;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Outfit', sans-serif;
+}
+
+.buy-now:hover {
+    background-color: #4D9F2D;
+}
+
+/* Navbar end */
+
+/* Motion-artEffect start */
+.motion-artEffect {
+    padding: 16px 70px;
+    margin-bottom: 100px;
+}
+
+.left-art img {
+    width: 100%;
+}
+
+.arteffect {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 70px;
+}
+
+.left-art img {
+    max-width: 170px;
+    height: 50px;
+}
+
+.right-art a {
+    text-decoration: none;
+}
+
+.right-art button {
+    background-color: white;
+    color: #121212;
+    border: 2px solid #ffffff;
+    padding: 16px 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.right-art button:hover {
+    background-color: #0c0029;
+    color: #ffffff;
+}
+
+@media (max-width: 480px) {
+    .right-art button {
+        opacity: 0;
+    }
+}
+
+/* Motion-artEffect end */
+
+/* Intro start */
+.intro {
+    max-width: 800px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.intro-content1 {
+    flex-basis: 45%;
+    margin-left: 150px;
+    
+}
+
+
+.intro-content2 {
+    flex-basis: 45%;
+    padding-top: 20px;
+    width: 600px;
+}
+
+.highlight {
+    background: linear-gradient(90deg, #F87516 0%, #5E11FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Intro end */
+
+/* Ratings start */
+.reviews-section {
+    margin: 40px;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.reviews-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 70px;
+}
+
+.review {
+    text-align: center;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #333;
+    margin: 0 auto 10px;
+}
+
+.envato {
+    background-image: url('path/to/envato-logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.g2 {
+    background-image: url('path/to/g2-logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.wordpress {
+    background-image: url('path/to/wordpress-logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rating {
+    font-size: 14px;
+}
+
+.stars {
+    display: block;
+    width: 100px;
+    margin: 0 auto 5px;
+}
+
+.score {
+    display: block;
+    font-size: 14px;
+}
+
+
+/* Ratings end */
+
+/* Magic start */
+.magic-section {
+    padding: 40px 0;
+    background-color: #0c0029;
+}
+
+.magic-section .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.magic-section .content {
+    max-width: 60%;
+    text-align: left;
+}
+
+.magic-section h1 {
+    font-size: 2rem;
+    margin: 20px 0;
+}
+
+.magic-section p {
+    font-size: 1rem;
+    margin: 20px 0;
+}
+
+.magic-section .button {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 20px 30px;
+    background: linear-gradient(90deg, #6a00ff, #ff6a00);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.magic-section .button:hover {
+    background: linear-gradient(90deg, #5900cc, #e65c00);
+}
+
+.magic-section .button i {
+    margin-left: 10px;
+}
+
+.magic-section .magic-wand {
+    max-width: 35%;
+    text-align: right;
+}
+
+.magic-section .magic-wand img {
+    width: 100%;
+    height: auto;
+}
+
+@keyframes wandTrail {
+    0% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    100% {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+}
+
+/* Magic end */
+
+/* Apply start */
+.apply {
+    text-align: center;
+}
+
+.applyh2 {
+    margin: 30px;
+    font-size: 40px;
+}
+
+.apply-main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 70px 20px 150px 20px;
+}
+
+.apply-onsection {
+    width: 42%;
+    background-color: #6f6f6f;
+    padding: 20px;
+    margin-top: 70px;
+    margin-bottom: 150px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 1px solid #d13333;
+}
+
+.apply-onsection h2 {
+    text-align: start;
+    padding: 10px;
+}
+
+.apply-onsection p {
+    text-align: start;
+    padding: 10px;
+}
+
+.apply-onpage {
+    width: 42%;
+    background-color: #6f6f6f;
+    padding: 20px;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 1px solid #d13333;
+}
+
+.apply-onpage h2 {
+    text-align: start;
+    padding: 10px;
+}
+
+.apply-onpage p {
+    text-align: start;
+    padding: 10px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    .apply-main {
+        margin: 70px 0 150px 0; /* Adjust margin to center the content */
+    }
+
+    .apply-onsection,
+    .apply-onpage {
+        width: 90%; /* Adjust width to fit the container */
+        margin-left: auto; /* Center the sections */
+        margin-right: auto; /* Center the sections */
+    }
+    .onimage{
+        max-width: 90%;
+        height: auto;
+        border-radius: 10px;
+    }
+}
+
+/* Apply end */
+
+/* Browsers start */
+.browsers {
+    background-color: #544f4f;
+    color: #ffffff;
+    text-align: center;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 50px 5%;
+    border: 5px solid whitesmoke;
+}
+
+.browsers h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.browsers p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+
+
+@media (max-width: 480px) {
+    .reviews-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .review img {
+        max-width: 100px;
+    }
+
+    .rating {
+        font-size: 12px;
+    }
+
+    .stars {
+        width: 80px;
+    }
+
+    .score {
+        font-size: 12px;
+    }
+}
+
+/* Browsers end */
+
+/* Feature start */
+.feature {
+    flex-direction: column;
+    margin-bottom: 70px;
+}
+
+.feature-text {
+    text-align: center;
+    margin: 140px auto 50px auto;
+}
+
+.feature-text h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.feature-list {
+    justify-content: space-between;
+    margin-top: 40px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.feature-item {
+    flex: 1;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: #988b8b;
+    margin: 40px;
+}
+@media (max-width: 768px) {
+    .reviews-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+/* Feature end */
+
+/* Footer start */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    color: black;
+}
+
+.footer-links {
+    display: flex;
+    gap: 10px;
+    text-align: right;
+}
+
+.footer-links a {
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* Footer end */
+
+/* Media Queries */
+@media (max-width: 1024px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+    }
+
+    .arteffect {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .intro {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .intro-content1,
+    .intro-content2 {
+        margin: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .magic-section .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .magic-section .content,
+    .magic-section .magic-wand {
+        max-width: 100%;
+    }
+
+    .apply-main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .apply-onsection,
+    .apply-onpage {
+        width: 80%;
+        margin: 20px 0;
+    }
+
+    .feature-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .feature-item {
+        width: 80%;
+        margin: 20px 0;
+    }
+}
+}
+
+
